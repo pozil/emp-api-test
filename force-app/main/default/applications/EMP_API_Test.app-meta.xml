@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#FD0000</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>EMP API Test</label>
+    <navType>Standard</navType>
+    <tabs>MobileAuraTab</tabs>
+    <tabs>MobileLwcTab</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>EMP_API_Test_UtilityBar</utilityBar>
+</CustomApplication>

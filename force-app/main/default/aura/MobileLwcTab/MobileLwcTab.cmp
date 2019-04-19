@@ -1,0 +1,3 @@
+<aura:component access="global" implements="force:appHostable">
+    <c:lwcEmpApiTest/>
+</aura:component>
