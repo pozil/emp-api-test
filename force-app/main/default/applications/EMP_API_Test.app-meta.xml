@@ -9,8 +9,8 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>EMP API Test</label>
     <navType>Standard</navType>
-    <tabs>MobileAuraTab</tabs>
-    <tabs>MobileLwcTab</tabs>
+    <tabs>AuraEmpTab</tabs>
+    <tabs>LWC_EMP_API</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>EMP_API_Test_UtilityBar</utilityBar>
 </CustomApplication>

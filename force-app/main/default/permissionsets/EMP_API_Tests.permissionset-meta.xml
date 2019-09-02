@@ -16,11 +16,11 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <tabSettings>
-        <tab>MobileAuraTab</tab>
+        <tab>AuraEmpTab</tab>
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>
-        <tab>MobileLwcTab</tab>
+        <tab>LWC_EMP_API</tab>
         <visibility>Visible</visibility>
     </tabSettings>
 </PermissionSet>

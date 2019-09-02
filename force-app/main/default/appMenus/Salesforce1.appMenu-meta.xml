@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AppMenu xmlns="http://soap.sforce.com/2006/04/metadata">
     <appMenuItems>
-        <name>MobileAuraTab</name>
+        <name>AuraEmpTab</name>
         <type>CustomTab</type>
     </appMenuItems>
     <appMenuItems>
-        <name>MobileLwcTab</name>
+        <name>LWC_EMP_API</name>
         <type>CustomTab</type>
     </appMenuItems>
 </AppMenu>
